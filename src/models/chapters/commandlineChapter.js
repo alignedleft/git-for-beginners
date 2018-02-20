@@ -53,7 +53,7 @@ const commandlineChapter = createChapter('Command-line', {
       </Fragment>
     )),
     new ChapterText(
-      () => 'Let’s take a look at the differnt parts of the console.',
+      () => 'Let’s take a look at the different parts of the console.',
       { skip: true },
     ),
     new ChapterText(() => (
